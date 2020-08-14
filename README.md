@@ -25,7 +25,7 @@ I glad you are here. Come in to see all my work! .</p>
   <a target="_blank" href="https://www.linkedin.com/in/silva-lima-natalia/"><img src="https://github.com/Natalialimas/Natalialimas/blob/master/linkedin.png"align="left"  width="45" height="45" /></a>
   <a target="_blank" href="mailto:silvalimanatalia@gmail.com"><img src="https://github.com/Natalialimas/Natalialimas/blob/master/google.png" align="left" width="45" height="45" /></a>
   <a target="_blank" href="https://twitter.com/natilima__"><img src="https://github.com/Natalialimas/Natalialimas/blob/master/twitter.png" align="left" width="45" height="45"  /></a>
-  <a target="_blank" href="medium.com/@silvalimanatalia  "><img src="https://github.com/Natalialimas/Natalialimas/blob/master/medium.png" align="left"  width="45" height="45"  /></a>
+ 
    
    
   
