@@ -34,13 +34,13 @@ I glad you are here. Come in to see all my work! .</p>
  
 ### **Languages and Tools:** 
 <div class="languages and tools">
-  <a target="_blank" href="https://github.com/Natalialimas/Natalialimas/blob/master/Angular.png"><img src="https://github.com/Natalialimas/Natalialimas/blob/master/Angular.png" align="left" width="90" height="90" /></a>
-  <a target="_blank" href="https://github.com/Natalialimas/Natalialimas/blob/master/Springboot.png"><img src="https://github.com/Natalialimas/Natalialimas/blob/master/Springboot.png"align="left"  width="90" height="90" /></a>
-  <a target="_blank" href="https://github.com/Natalialimas/Natalialimas/blob/master/css.png"><img src="https://github.com/Natalialimas/Natalialimas/blob/master/css.png"align="left"  width="90" height="90" /></a>
-  <a target="_blank" href="https://github.com/Natalialimas/Natalialimas/blob/master/docker.png"><img src="https://github.com/Natalialimas/Natalialimas/blob/master/docker.png"align="left"  width="90" height="90" /></a>
-  <a target="_blank" href="https://github.com/Natalialimas/Natalialimas/blob/master/html5.png"><img src="https://github.com/Natalialimas/Natalialimas/blob/master/html5.png"align="left" width="90" height="90" /></a>
-    <a target="_blank" href="https://github.com/Natalialimas/Natalialimas/blob/master/java.png"><img src="https://github.com/Natalialimas/Natalialimas/blob/master/java.png"align="left"  width="90" height="90" /></a>
-    <a target="_blank" href="https://github.com/Natalialimas/Natalialimas/blob/master/javascript.png"><img src="https://github.com/Natalialimas/Natalialimas/blob/master/javascript.png"align="left"  width="90" height="90"/></a>
-    <a target="_blank" href="https://github.com/Natalialimas/Natalialimas/blob/master/mysql.png"><img src="https://github.com/Natalialimas/Natalialimas/blob/master/mysql.png"align="left"  width="90" height="90" /></a>
+  <a target="_blank" href="https://github.com/Natalialimas/Natalialimas/blob/master/Angular.png"><img src="https://github.com/Natalialimas/Natalialimas/blob/master/Angular.png" align="left" width="85" height="85" /></a>
+  <a target="_blank" href="https://github.com/Natalialimas/Natalialimas/blob/master/Springboot.png"><img src="https://github.com/Natalialimas/Natalialimas/blob/master/Springboot.png"align="left" width="85" height="85" /></a>
+  <a target="_blank" href="https://github.com/Natalialimas/Natalialimas/blob/master/css.png"><img src="https://github.com/Natalialimas/Natalialimas/blob/master/css.png"align="left" width="85" height="85" /></a>
+  <a target="_blank" href="https://github.com/Natalialimas/Natalialimas/blob/master/docker.png"><img src="https://github.com/Natalialimas/Natalialimas/blob/master/docker.png"align="left"  width="85" height="85" /></a>
+  <a target="_blank" href="https://github.com/Natalialimas/Natalialimas/blob/master/html5.png"><img src="https://github.com/Natalialimas/Natalialimas/blob/master/html5.png"align="left" width="85" height="85" /></a>
+    <a target="_blank" href="https://github.com/Natalialimas/Natalialimas/blob/master/java.png"><img src="https://github.com/Natalialimas/Natalialimas/blob/master/java.png"align="left"  width="85" height="85" /></a>
+    <a target="_blank" href="https://github.com/Natalialimas/Natalialimas/blob/master/javascript.png"><img src="https://github.com/Natalialimas/Natalialimas/blob/master/javascript.png"align="left"  width="85" height="85"/></a>
+    <a target="_blank" href="https://github.com/Natalialimas/Natalialimas/blob/master/mysql.png"><img src="https://github.com/Natalialimas/Natalialimas/blob/master/mysql.png"align="left"  width="85" height="85" /></a>
 
  
